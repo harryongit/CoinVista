@@ -5,7 +5,6 @@ A comprehensive data science project for analyzing and predicting cryptocurrency
 
 ![cryptocurrencies](https://github.com/user-attachments/assets/38d2330a-546b-4daf-8f28-a6e862806979)
 
-
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)  
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
